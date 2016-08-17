@@ -6,4 +6,4 @@
 
 ![Normal](https://github.com/SJX516/AndroidStudio-JavaCodeColor/blob/master/normal.png)
 
-![Use](https://github.com/SJX516/AndroidStudio-JavaCodeColor/blob/master/use.png)
+![Use](https://github.com/SJX516/AndroidStudio-JavaCodeColor/blob/master/normal2.png)
