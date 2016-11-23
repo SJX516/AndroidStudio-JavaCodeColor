@@ -1,5 +1,5 @@
 ## AndroidStudio-JavaCodeColor
-####基于 SublimeMonokai 的Android Studio 自定义配色方案
+####基于 SublimeMonokai 的自定义配色方案(AndroidStudio , IntelliJ IDEA 通用)
 
 因为在网上一直没有找到自己喜欢的配色方案，所有自己在 SublimeMonokai 方案的基础上进行了部分颜色的自定义，在使用的过程中不断的调整，目前算是调整到了一个比较满意的状态，所以拿出来分享给大家
 
@@ -9,6 +9,15 @@
 
 ![Use](img/use.png)
 
+#### 继续设置
+
+- 可以在这里设置字体的样式和大小，推荐使用 PT Mono 或 Consolas 的字体
+
+![Font](img/font.jpg)
+
+- 推荐把主题改为暗色，可以直接搜索 “theme” 找到修改的地方 
+
+![themt](img/theme.jpg)
 
 -----
 ##这里是一些比较有用的颜色配置
