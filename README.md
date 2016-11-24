@@ -1,13 +1,12 @@
 ## AndroidStudio-JavaCodeColor
-####基于 SublimeMonokai 的自定义配色方案(AndroidStudio , IntelliJ IDEA 通用)
+####自定义配色方案Colorful Dark(AndroidStudio , IntelliJ IDEA 通用)
 
 因为在网上一直没有找到自己喜欢的配色方案，所有自己在 SublimeMonokai 方案的基础上进行了部分颜色的自定义，在使用的过程中不断的调整，目前算是调整到了一个比较满意的状态，所以拿出来分享给大家
 
-#### 使用的话直接 File-->Import Settings 然后选中 AS_baseColor.jar 文件 就可以了
+#### 使用
+直接 File-->Import Settings 然后选中 Colorful_Dark.jar 文件 就可以了
 
-![Normal](img/normal.png)
-
-![Use](img/use.png)
+![Normal](img/normal2.jpg)
 
 #### 继续设置
 
