@@ -6,7 +6,7 @@
 #### 使用
 直接 File-->Import Settings 然后选中 Colorful_Dark.jar 文件 就可以了
 
-![Normal](img/normal2.jpg)
+![Normal](img/normal3.jpg)
 
 #### 继续设置
 
