@@ -3,10 +3,15 @@
 
 因为在网上一直没有找到自己喜欢的配色方案，所有自己在 SublimeMonokai 方案的基础上进行了部分颜色的自定义，在使用的过程中不断的调整，目前算是调整到了一个比较满意的状态，所以拿出来分享给大家
 
-#### 使用
-直接 File-->Import Settings 然后选中 Colorful_Dark.jar 文件 就可以了
-
 ![Normal](img/normal3.jpg)
+
+#### 使用
+直接 File-->Import Settings 然后选中 Colorful_Dark.jar 文件导入，之后就可以去到 Preferences-->Editor-->Colors & Fonts ，如下图，选择我配好的Scheme，这里我准备了两个
+
+- Colorful Dark ：最初版本，颜色比较鲜艳，适合颜色不那么浓的显示器
+- Colorful Dark mac ：这个是我为mac笔记本配置的一个版本，颜色稍微暗一些，适合颜色比较浓的显示器
+
+![SelectTheme](img/select_theme.png)
 
 #### 继续设置
 
